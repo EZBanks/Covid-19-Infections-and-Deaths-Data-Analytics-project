@@ -1,6 +1,13 @@
 # Covid-19-Infections-and-Deaths-Data-Analytics-project
 
 
+To view raw code, please check the .sql file above
+
+For a complete review (sql code, analysis, and visualization) please check the .pdf file above
+
+[Tableau Dashoard](https://public.tableau.com/app/profile/andre3721/viz/WorldCovidInfectionsDashboard/Tableaudebord1) 
+
+
 ## Executive Summary
 
 The aim of this analysis is to focus on Covid-19 pandemic as one of the most fatal diseases of the 21st century to gain insights into how it has affected countries and continents in different manner from January 2020 to October 2022. 
